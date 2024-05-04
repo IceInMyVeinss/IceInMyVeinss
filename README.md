@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceinmyveins&show_icons=true&locale=en" alt="iceinmyveins" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceinmyveins&" alt="iceinmyveins" /></p>
-![Snake animation]
